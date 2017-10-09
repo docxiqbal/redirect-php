@@ -1,3 +1,3 @@
 <head>
-<? include ".redirect.php"; ?>
+	<? include ".redirect.php"; ?>
 </head>
